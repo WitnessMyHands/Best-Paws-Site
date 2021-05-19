@@ -9,7 +9,7 @@ burgerIcon.addEventListener("click", () => {
 // When Document is ready, THEN load Functions
 $(document).ready(function () {
     // YouTube API
-    var key = "AIzaSyBFYMCr4d7lc-uj2-cNh3daGOJOgmnnL50";
+    var key = "";
     var playlistId = "PL_lgr1_NiQp8-w1mwUVkA1Y55EMmbit_J";
     // HTTP Request URL
     var URL = "https://www.googleapis.com/youtube/v3/playlistItems";
